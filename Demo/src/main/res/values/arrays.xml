@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="play_video_network">
+        <item>仅Wi-Fi自动播放</item>
+        <item>始终自动播放</item>
+        <item>从不自动播放</item>
+    </string-array>
+
+    <string-array name="play_video_mute">
+        <item>静音</item>
+        <item>非静音</item>
+    </string-array>
+    
+</resources>
